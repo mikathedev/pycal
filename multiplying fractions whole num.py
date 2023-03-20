@@ -18,7 +18,7 @@ def af():
     denomanater2 = int(input("what is the second denomanater"))
     ansdenomarater = denomanater+denomanater2
     ansnumarater = numerator+numerator2
-    pyperclip.copy(str(ansnumarater+"/"+ansdenomarater))
+    pyperclip.copy(str(ansnumarater)+"/"+str(ansdenomarater))
     print(str(ansnumarater+"/"+ansdenomarater)+"has been copied to clip bored")
 
 
