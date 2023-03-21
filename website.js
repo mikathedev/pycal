@@ -9,8 +9,17 @@ var ans = Number(num)*Number(numar)
 alert(ans.toString,"/",denom)
 }
 
+function mfbf(){
+    var numar2 = prompt("second numaraqter")
+    var denom2 = prompt("second denomarater")
+    if(denom2 == denom2){
+        var ansnuma = Number(numar)*Number(numar2)
+    }
+}
+
 if (what == "1"){
 
+    mfbwn()
     
 }
 else {if(what == "1"){
